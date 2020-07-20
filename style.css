@@ -632,7 +632,7 @@ h3 {
 .fixed_bg {
   width: 100%;
   height: 560px;
-  background-image: url(../img/main_top.png);
+  background-image: url(main_top.png);
   background-size: cover;
   background-position: 50% 50%;
 }
